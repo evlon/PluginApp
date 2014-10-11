@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="代码生成/文本转换记录">
+  <MessageClass Name="Message" Label="消息" Option="显示提供相关信息的消息" />
+  <MessageClass Name="Warning" Label="警告" Option="显示警告" />
+  <MessageClass Name="Error" Label="错误" Option="显示错误" />
+  <MessageClass Name="Property" Label="属性" Option="显示元数据" />
+  <MessageClass Name="Diagnostic" Label="消息" Option="显示诊断消息" />
+  <Message Timestamp="2012-10-14T00:54:19" Importance="High" Text="已启动反向工程。" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “19db067d-2708-4314-973b-c558cc6cb72a”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “20801965-ab3a-41a3-8e31-3fafbf466d10”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “3aef47c2-5504-46f7-b50a-393ee4e55c85”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “5e763726-2188-4dab-bad0-4e6d27541d31”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “6249bf01-e64d-44cf-bb5b-cf8fa373c961”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “79fe2663-04db-4053-bcf3-1972a0047c4e”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “88ecb3f6-1116-49ac-a122-902699a71182”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “95c1353e-658f-42bc-8823-6da70bf3827b”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “962e559e-9562-4437-86eb-fb70b5cc6c08”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “e0658acb-2405-4a08-aff7-9f643df19b99”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “f966c747-99e3-4630-af3b-c5b1283732c5”-  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateFuncProxy”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateFuncProxy::targetFunc”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateFuncProxyType”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateFuncProxyType::baseType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateFuncProxyType::targetType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateProxy‎&lt;TObject‎&gt;”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateProxy‎&lt;TObject‎&gt;::target”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateProxyType”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateProxyType::baseType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::CreateProxyType::targetType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::GetTargetType”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::GetTargetType::targetType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::InterfaceProxyBuilder::proxies”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin”-  (Interface)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin::PluginId”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin::Run”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin::Run::action”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin::Run::args”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::IPlugin::Run::func”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::_pluginLoader”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::_proxyPlugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::_targetPlugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::locker”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::PluginCallerProxy”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::PluginCallerProxy::loader”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::PluginLoader”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::ProxyPlugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy::TargetPlugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginCallerProxy&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeHandle”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeHandle::Invoke”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeHandle::Invoke::e”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeHandle::Invoke::sender”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeHandle&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeType”-  (Enumeration)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeType::Created”-  (EnumerationLiteral)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginChangeType::Deleted”-  (EnumerationLiteral)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginException”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginException::PluginException”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginException::PluginException::message”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginLoader”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginLoader::Plugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginLoader::PluginLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginLoader::PluginLoader::targetAssembly”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginLoader&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::_instance”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::changedPlugins”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::Instance”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginChange”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginChange::e”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginChanged”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginChanged::e”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginChanged::sender”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginRenamed”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginRenamed::e”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::OnPluginRenamed::sender”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::PluginChanged”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::PluginManager”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::plugins”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::pluginWatcher”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::ProcessChangedPlugin”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::static PluginManager”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager::timerProcess”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManager&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::ChangeType”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::FileName”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::PluginInstance”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::PluginManagerEventArgs”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::PluginManagerEventArgs::changeType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::PluginManagerEventArgs::fileName”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs::PluginManagerEventArgs::pluginInstance”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::PluginManagerEventArgs&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::action”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::CreateProxyAction”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::CreateProxyAction::action”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::Execute”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::RemoteActionProxy”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteActionProxy::RemoteActionProxy::action”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteDomainHelper”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteDomainHelper::CreateRemoteAppDomainProxy”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteDomainHelper::CreateRemoteAppDomainProxy::action”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteDomainHelper::CreateRemoteAppDomainProxy‎&lt;T‎&gt;”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteDomainHelper::CreateRemoteAppDomainProxy‎&lt;T‎&gt;::func”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::CreateProxyFunc‎&lt;T‎&gt;”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::CreateProxyFunc‎&lt;T‎&gt;::func”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::Execute”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::func”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::RemoteFuncProxy”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteFuncProxy::RemoteFuncProxy::func”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::Execute”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::Execute::action”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::Execute‎&lt;T‎&gt;”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::Execute‎&lt;T‎&gt;::fun”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::LoadAssembly”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::LoadAssembly::assemblyPath”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::Plugin”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::pluginType”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemotePluginLoader::RemotePluginLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::assembly”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::assemblyPath”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::CreateInstance”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::CreateInstance::fullTypeName”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::CurrentDomain_AssemblyResolve”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::CurrentDomain_AssemblyResolve::args”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::CurrentDomain_AssemblyResolve::sender”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::InitTypeLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::InitTypeLoader::assemblyPath”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::LoadAssembly”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::LoadAssembly::assemblyPath”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::RemoteTypeLoader::RemoteTypeLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Medium" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader”-  (Class)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::CreateRemoteTypeLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::CreateRemoteTypeLoader::remoteLoaderType”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::CreateRemoteTypeLoader::targetDomainName”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::RemoteDomain”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::remoteTypeLoader”-  (Property)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::TypeLoader”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::TypeLoader::targetAssembly”-  (Parameter)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::PluginBase::TypeLoader::Unload”-  (Operation)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Action”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::AppDomain”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::ApplicationException”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections::Concurrent”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections::Concurrent::ConcurrentDictionary”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections::Concurrent::ConcurrentDictionary&lt;String‎, FileSystemEventArgs‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections::Concurrent::ConcurrentDictionary&lt;String‎, PluginCallerProxy‎&lt;T‎&gt;‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Collections::Concurrent::ConcurrentDictionary&lt;Type‎, Type‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::EventArgs”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Func”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Func&lt;String‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Func&lt;T‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Func&lt;TPlugin‎&gt;”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Guid”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::IO”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::IO::FileSystemEventArgs”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::IO::FileSystemWatcher”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::IO::RenamedEventArgs”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::MarshalByRefObject”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Object”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Reflection”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Reflection::Assembly”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::ResolveEventArgs”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Threading”-  (Package)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Threading::ReaderWriterLockSlim”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Threading::Timer”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “ModelingProject::System::Type”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “String”-  (PrimitiveType)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “T”-  (Class)   (已进行部分反向工程 - 定义未更新) " />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “T”-  (UndefinedType)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下元素反向工程到 UML 模型中: “TObject”-  (UndefinedType)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginLoader 到 ModelingProject::PluginBase::TypeLoader (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginManager 到 ModelingProject::PluginBase::PluginManager&lt;T‎&gt; (Association)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginManagerEventArgs 到 ModelingProject::PluginBase::PluginChangeType (Association)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginManagerEventArgs 到 ModelingProject::System::EventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::RemoteFuncProxy 到 ModelingProject::System::MarshalByRefObject (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::RemotePluginLoader 到 ModelingProject::PluginBase::RemoteTypeLoader (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::IPlugin 到 ModelingProject::System::Guid (Association)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginException 到 ModelingProject::System::ApplicationException (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::RemoteActionProxy 到 ModelingProject::System::MarshalByRefObject (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::RemoteTypeLoader 到 ModelingProject::System::MarshalByRefObject (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::TypeLoader 到 ModelingProject::System::AppDomain (Association)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginManagerEventArgs&lt;T‎&gt; 到 ModelingProject::System::EventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginManagerEventArgs&lt;T‎&gt; 到 ModelingProject::System::EventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::System::IO::FileSystemEventArgs 到 ModelingProject::System::EventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::System::IO::RenamedEventArgs 到 ModelingProject::System::IO::FileSystemEventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::System::Threading::Timer 到 ModelingProject::System::MarshalByRefObject (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::System::ResolveEventArgs 到 ModelingProject::System::EventArgs (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::System::AppDomain 到 ModelingProject::System::MarshalByRefObject (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="Diagnostic" Text="已将以下关系反向工程到 UML 模型中: ModelingProject::PluginBase::PluginLoader&lt;T‎&gt; 到 ModelingProject::PluginBase::TypeLoader (Generalization)" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="High" Text="已对(15)个类型进行完全反向工程。" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="High" Text="已对(29)个类型进行部分反向工程。这些类型未包含在原始选定内容中，因此未对其整个定义进行反向工程。相反，此浅表操作只确保这些类型存在于 UML 模型中，因为需要用它们来完全描述其他元素。" />
+  <Message Timestamp="2012-10-14T00:54:33" Importance="High" Text="反向工程操作已完成，出现了(0)个错误和(0)个警告。" />
+</Log>
